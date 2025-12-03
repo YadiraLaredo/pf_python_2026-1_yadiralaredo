@@ -1,0 +1,5 @@
+"TOA5","CR1000-ESOLMET_LOC","CR1000","23644","CR1000.Std.32.05","CPU:2021-12-16-ESOLMET-CR1000.CR1","6040","Tabla_diez_min"
+"TIMESTAMP","RECORD","Batt_Volt_Min","I_glo_Avg","I_dir_Avg","I_dif_Avg","AirTC_Avg","AirTC_Max","AirTC_Min","AirTC_Std","RH_Avg","RH_Max","RH_Min","RH_Std","WS_ms_Avg","WS_ms_Max","WS_ms_Min","WS_ms_Std","WindDir","CS106_PB_Avg","Rain_mm_Tot"
+"TS","RN","Volts","W/m2","W/m2","W/m2","°C","°C","°C","°C","%","%","%","%","m/s","m/s","m/s","m/s","grados","mbar","mm"
+"","","Min","Avg","Avg","Avg","Avg","Max","Min","Std","Avg","Max","Min","Std","Avg","Max","Min","Std","Smp","Avg","Tot"
+"1934-11-04 18:40:00",0,13.12,615.4,381,255.8,26.08,26.19,25.99,0.043,54.69,55.16,54.2,0.261,1.873,3.2,0,0.788,41.39,401.2837,0
